@@ -13,7 +13,7 @@
         "UpdateStageName": "SteamCMD Download",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "1007",
+        "UpdateSourceData": "1180760",
         "UpdateSourceTarget": "1180760",
         "ForceDownloadPlatform": "Windows",
         "SkipOnFailure": false

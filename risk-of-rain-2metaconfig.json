@@ -3,6 +3,7 @@
         "ConfigFile": "Risk of Rain 2_Data/Config/server.cfg",
         "ConfigType": "template",
         "AutoMap": true,
+        "Importable": true,
         "ConfigFileTemplate": "risk-of-rain-2/AMP_server.cfg"
     }
 ]

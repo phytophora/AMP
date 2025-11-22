@@ -3,18 +3,8 @@
         "UpdateStageName": "SteamCMD Download",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "632360",
-        "UpdateSourceArgs": "632360",
-        "UpdateSourceTarget": "1180760",
-        "ForceDownloadPlatform": "Windows",
-        "SkipOnFailure": false
-    },
-    {
-        "UpdateStageName": "SteamCMD Download",
-        "UpdateSourcePlatform": "All",
-        "UpdateSource": "SteamCMD",
         "UpdateSourceData": "1180760",
-        "UpdateSourceTarget": "1180760",
+        "UpdateSourceArgs": "632360",
         "ForceDownloadPlatform": "Windows",
         "SkipOnFailure": false
     },
